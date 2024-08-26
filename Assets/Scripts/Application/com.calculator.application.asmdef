@@ -1,0 +1,18 @@
+{
+    "name": "com.calculator.application",
+    "rootNamespace": "",
+    "references": [
+        "GUID:01d901bfeb58408eab4a080ad8de4f82",
+        "GUID:f2950476deb84ffcac30ab80e2502be2",
+        "GUID:7a7b76cb84234f89bf396dd770db0756"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
